@@ -1,1 +1,1 @@
-# us-medical-insurance-costs
+For this project, I am investigating a medical insurance costs dataset using Python skills (files, functions): average ages, number of males and females, unique regions patients are from, and average yearly medical charges. This project aims to analyse various attributes within the file to learn more about the patient information and gain insights into potential use cases for the dataset. 
